@@ -27,14 +27,15 @@
     width: 100%;
     color: #fff;
     font-family: 'Lobster', cursive;
+
+}
+.center {
     display: flex;
     justify-content: center;
-
+    align-items: center;
 }
 h4 {
     color: #fff;
     font-family: 'Lobster', cursive;
-    display: flex;
-    justify-content: center;
-
+    text-align: center;
 }
