@@ -7,14 +7,14 @@
     background-image: url(/images/city.jpg);
     background-size: cover;
     clip-path: polygon(0 0, 0 100%, 100% 0);
-    width: 100%;
+    width: 50%;
     height: 30vh;
 }
 .right-part {
     clip-path: polygon(100% 1%, 0 0, 100% 100%);
     background-image: url(/images/countryside1.jpg);
     background-size: cover;
-    width: 100%;
+    width: 50%;
     height: 30vh;
 }
 .top-menu {
@@ -24,7 +24,6 @@
     height: 30vh;
 }
 .title {
-    width: 100%;
     font-family: 'Lobster', cursive;
     display: flex;
     justify-content: center;
